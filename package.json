@@ -1,6 +1,6 @@
 {
-  "name": "draft-js-markdown-plugin",
-  "version": "3.0.5",
+  "name": "draft-js-short-markdown-plugin",
+  "version": "3.0.6",
   "description": "A DraftJS plugin for supporting Markdown syntax shortcuts, fork of draft-js-markdown-shortcuts-plugin",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neddinn/draft-js-markdown-plugin.git"
+    "url": "git+https://github.com/neddinn/draft-js-short-markdown-plugin.git"
   },
   "keywords": [
     "draftjs",
@@ -25,9 +25,9 @@
   "author": "Max Stoiber <contact@mxstbr.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neddinn/draft-js-markdown-plugin/issues"
+    "url": "https://github.com/neddinn/draft-js-short-markdown-plugin/issues"
   },
-  "homepage": "https://github.com/neddinn/draft-js-markdown-plugin#readme",
+  "homepage": "https://github.com/neddinn/draft-js-short-markdown-plugin#readme",
   "lint-staged": {
     "*.{js,css}": [
       "prettier --write",
